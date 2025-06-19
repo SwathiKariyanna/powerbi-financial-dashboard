@@ -27,5 +27,5 @@ This project showcases a financial reporting dashboard created using Power BI. I
 - Improved stakeholder visibility of KPIs
 
 ## 📬 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) | [GitHub Profile](https://github.com/SwathiKariyanna)
+[LinkedIn](https://www.linkedin.com/in/swathi-kariyanna-3a2a7b184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | [GitHub Profile](https://github.com/SwathiKariyanna)
 
